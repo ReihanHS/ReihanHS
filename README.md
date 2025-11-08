@@ -1,5 +1,15 @@
-## Hi there 👋
-
+## Yooooo 👋
+### My Certificates 🎖️
+#### Pycon Davao 2025
+![Pycon Davao 2025 Certificate](https://github.com/ReihanHS/ReihanHS/blob/main/assets/pycon-davao-2025_Reihan%20Salihuddin_page-0001.jpg?raw=true)
+#### Pre-Programming
+[![Pre-Programming Udemy Certificate](https://github.com/ReihanHS/ReihanHS/blob/main/assets/preprogramming.jpg?raw=true)](https://udemy-certificate.s3.amazonaws.com/image/UC-f6b1e16f-b492-4140-a0d6-b0467b7a695b.jpg)
+#### Clean Code
+[![Clean Code Udemy Certificate](https://github.com/ReihanHS/ReihanHS/blob/main/assets/cleancode.jpg?raw=true)](https://udemy-certificate.s3.amazonaws.com/image/UC-a6e2164b-f8e9-4dd6-a3a7-b5dacfe5a980.jpg)
+#### Java
+[![Java Udemy Certificate](https://github.com/ReihanHS/ReihanHS/blob/main/assets/java.jpg?raw=true)](https://udemy-certificate.s3.amazonaws.com/image/UC-57a9b81a-8271-486a-9ae4-56413949d8e6.jpg)
+#### C
+[![C Udemy Certificate](https://github.com/ReihanHS/ReihanHS/blob/main/assets/cprogramming.jpg?raw=true)](https://udemy-certificate.s3.amazonaws.com/image/UC-0d34e966-5906-4e2c-ad5d-fdaedb4ea585.jpg)
 <!--
 **ReihanHS/ReihanHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

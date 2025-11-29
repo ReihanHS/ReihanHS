@@ -10,6 +10,8 @@
   <img src="https://github.com/ReihanHS/ReihanHS/blob/main/assets/java.jpg?raw=true" width="200" alt="Java Udemy Certificate">
 </a><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-0d34e966-5906-4e2c-ad5d-fdaedb4ea585.jpg">
   <img src="https://github.com/ReihanHS/ReihanHS/blob/main/assets/cprogramming.jpg?raw=true" width="200" alt="C Udemy Certificate">
+</a><a href="">
+  <img src="https://github.com/ReihanHS/ReihanHS/blob/main/assets/DevFest.png?raw=true" width="200" alt="DevFest Davao 2025">
 </a>
 <!--
 **ReihanHS/ReihanHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,6 +12,8 @@
   <img src="https://github.com/ReihanHS/ReihanHS/blob/main/assets/cprogramming.jpg?raw=true" width="200" alt="C Udemy Certificate">
 </a><a href="">
   <img src="https://github.com/ReihanHS/ReihanHS/blob/main/assets/DevFest.png?raw=true" width="200" alt="DevFest Davao 2025">
+</a><a href="">
+  <img src="https://github.com/ReihanHS/ReihanHS/blob/main/assets/Beadle%20Orientation%2025-26%20%5B2nd%20Semester%5D_page-0001.jpg" width="200" alt="Beadle Orientation 2026">
 </a>
 <!--
 **ReihanHS/ReihanHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
